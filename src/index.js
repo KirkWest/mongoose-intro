@@ -1,4 +1,4 @@
-//  This file handles the boot-up of the server
+// This file handles the boot-up of the server 
 
 
 const { app } = require('./server');
